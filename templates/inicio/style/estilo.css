@@ -1,0 +1,63 @@
+body {
+	margin: 0px;
+	font-family: arial;
+	display: block;
+	text-align: center;
+}
+
+h1 {
+	margin: 0px;
+	font: bold 20px verdana, sans-serif;
+}
+
+#cabecera {
+	margin: 0px;
+	background-color: #ccc;
+}
+
+
+#menu {
+	padding: 5px 15px;
+	background-color: orange; 
+}
+#menu li {
+	display: inline-block;
+	list-style: none;
+	width: 180px;
+	padding: 5px;
+	font: arial 14px;
+}
+
+
+#contenido {
+	margin-left: 10px auto;
+	text-align: left;
+}
+
+#seccion1{
+	float: left;
+	width: 660px;
+	margin: 20px;
+}
+
+#columna {
+	float: left;
+	width: 220px;
+	margin: 20px 0px;
+	padding: 20px;
+	background: #CCCCCC;
+}
+
+
+#pie {
+
+	margin: 0px;
+	text-align: center;
+	background-color: #ccc;
+}
+
+#logofooter {
+	position: relative;
+	margin: 0px;
+	text-align: center;
+}
